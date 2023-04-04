@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<Mercadona>
+    <direccion>Gran Via de les Corts Catalanes, 373</direccion>
+    <codigoPostal>08015</codigoPostal>
+    <coordenadas>41.37625391210226, 2.149832308073621</coordenadas>
+    <productos>
+        <panaderia>
+            <producto>pastel de nata</producto>
+            <marca>megusta</marca>
+            <informacion>
+                <unidades>5</unidades>
+                <fresco>true</fresco>
+                <formato>envasado</formato>
+                <cantidad>5</cantidad>
+            </informacion>
+            <precioVta>1,00</precioVta>
+            <perecedero>true</perecedero>
+           <oferta>
+                    <activa>true</activa>
+                    <descuento>2º unidad -50%</descuento>
+            </oferta>
+            <comprado>false</comprado>
+        </panaderia>
+        <panaderia>
+            <producto>pan de semillas</producto>
+            <marca>Buenisimo</marca>
+            <informacion>
+                <unidades>2</unidades>
+                <fresco>true</fresco>
+                <formato>envasado</formato>
+                <cantidad>500</cantidad>
+                <unidadMedida>gramos</unidadMedida>
+            </informacion>
+            <precioVta>1.40</precioVta>
+            <perecedero>true</perecedero>
+             <oferta>
+                    <activa>true</activa>
+                    <descuento>-10%</descuento>
+            </oferta>
+            <comprado>true</comprado>
+        </panaderia>
+        <fruteria>
+            <producto>Papas</producto>
+            <marca>Papitas</marca>
+            <informacion>
+                <unidades>5</unidades>
+                <fresco>true</fresco>
+                <formato>sueltas</formato>
+                <cantidad>900</cantidad>
+                <unidadMedida>gramos</unidadMedida>
+            </informacion>
+            <precioVta>0.89</precioVta>
+            <perecedero>true</perecedero>
+            <enOferta>false</enOferta>
+            <comprado>true</comprado>
+        </fruteria>
+    </productos>
+</Mercadona>

@@ -1,0 +1,220 @@
+{
+  "Mercadona": [
+    {
+      "direccion": "Gran Via de les Corts Catalanes, 373",
+      "codigoPostal": "08015",
+      "coordenadas": "41.37625391210226, 2.149832308073621",
+      "productos": [
+        {
+          "panaderia": [
+            {
+              "producto": "pastel de nata",
+              "marca": "megusta",
+              "informacion": {
+                "unidades": 5,
+                "fresco": true,
+                "formato": "envasado",
+                "cantidad": 5
+              },
+              "precioVta": 1.00,
+              "perecedero": true,
+              "oferta": {
+                "activa": true,
+                "descuento": "2º unidad -50%"
+            },
+              "comprado": false
+            },
+            {
+              "producto": "pan de semillas",
+              "marca": "Buenisimo",
+              "informacion": {
+                "unidades": 2,
+                "fresco": true,
+                "formato": "envasado",
+                "cantidad": 500,
+                "unidadMedida": "gramos"
+              },
+              "precioVta": 1.40,
+              "perecedero": true,
+              "oferta": {
+                "activa": true,
+                "descuento": "-10%"
+            },
+              "comprado": true
+            }
+          ],
+          "fruteria": [
+            {
+              "producto": "Papas",
+              "marca": "Papitas",
+              "informacion": {
+                "unidades": 5,
+                "fresco": true,
+                "formato": "sueltas",
+                "cantidad": 900,
+                "unidadMedida": "gramos"
+              },
+              "precioVta": 0.89,
+              "perecedero": true,
+              "enOferta": false,
+              "comprado": true
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "BonPreu": [
+    {
+      "direccion": "Gran Via de Carles III, 59, 63",
+      "codigoPostal": "08028",
+      "coordenadas": "41.38325684863674, 2.126956878454716",
+      "productos": [
+        {
+          "panaderia": [
+            {
+              "producto": "pan integral",
+              "marca": "Pancito",
+              "informacion": {
+                "unidades": 3,
+                "fresco": true,
+                "formato": "sueltas",
+                "cantidad": 300,
+                "unidadMedida": "gramos"
+              },
+              "precioVta": 1.89,
+              "perecedero": true,
+              "enOferta": false,
+              "comprado": false
+            },
+            {
+              "producto": "pan baguette",
+              "marca": "BonPreu",
+              "informacion": {
+                "unidades": 1,
+                "fresco": true,
+                "formato": "envasado",
+                "cantidad": 100,
+                "unidadMedida": "gramos"
+              },
+              "precioVta": 0.75,
+              "perecedero": true,
+              "oferta": {
+                "activa": true,
+                "descuento": "-15%"
+            },
+              "comprado": true
+            }
+          ],
+          "fruteria": [
+            {
+              "producto": "Fresa",
+              "marca": "Fresitas",
+              "informacion": {
+                "unidades": 1,
+                "fresco": true,
+                "formato": "bandeja",
+                "cantidad": 1,
+                "unidadMedida": "gramos"
+              },
+              "precioVta": 2.55,
+              "perecedero": true,
+              "enOferta": false,
+              "comprado": true
+            },
+            {
+              "producto": "Piña",
+              "marca": "BonPreu",
+              "informacion": {
+                "unidades": 1,
+                "fresco": true,
+                "formato": "unidade",
+                "cantidad": 800,
+                "unidadMedida": "gramos"
+              },
+              "precioVta": 2.50,
+              "perecedero": true,
+              "enOferta": false,
+              "comprado": true
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "Lidl": [
+    {
+      "direccion": "Jardins de Màlaga, C/ de Nicaragua, 29",
+      "codigoPostal": "08029",
+      "coordenadas": "41.384813496361204, 2.132017859515004",
+      "productos": [
+        {
+          "panaderia": [
+            {
+              "producto": "pan",
+              "marca": "Lidl",
+              "informacion": {
+                "unidades": 1,
+                "fresco": true,
+                "formato": "gramos",
+                "cantidad": 100,
+                "unidadMedida": "gramos"
+              },
+              "precioVta": 0.79,
+              "perecedero": true,
+              "enOferta": false,
+              "comprado": true
+            },
+            {
+              "producto": "pastel de nata",
+              "marca": "Lidl",
+              "informacion": {
+                "unidades": 1,
+                "fresco": true,
+                "formato": "envasado",
+                "cantidad": 50,
+                "unidadMedida": "gramos"
+              },
+              "precioVta": 0.79,
+              "perecedero": true,
+              "enOferta": false,
+              "comprado": false
+            }
+          ],
+          "fruteria": [
+            {
+              "producto": "lechuga",
+              "marca": "Lidl",
+              "informacion": {
+                "unidades": 1,
+                "fresco": true,
+                "formato": "envasado",
+                "cantidad": 100,
+                "unidadMedida": "gramos"
+              },
+              "precioVta": 1.10,
+              "perecedero": true,
+              "enOferta": false,
+              "comprado": false
+            },
+            {
+              "producto": "banana",
+              "marca": "nature",
+              "informacion": {
+                "unidades": 5,
+                "fresco": true,
+                "formato": "gramos",
+                "cantidad": 400,
+                "unidadMedida": "gramos"
+              },
+              "precioVta": 1.09,
+              "perecedero": true,
+              "enOferta": false,
+              "comprado": false
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
